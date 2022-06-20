@@ -1,5 +1,8 @@
 name: 🎉 Release Binary
 on:
+  pull_request:
+    tags:
+      - '*'
   push:
     tags:
       - '*'
