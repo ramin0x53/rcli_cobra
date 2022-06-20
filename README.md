@@ -2,6 +2,7 @@
 
 Easy to use Redis CLI that can be used from the command line mode.
 
+
 ## Build:
 ```
 git clone https://github.com/ramin0x53/rcli_cobra.git
